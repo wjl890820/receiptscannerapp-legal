@@ -1,0 +1,1 @@
+# receiptscannerapp-legal
